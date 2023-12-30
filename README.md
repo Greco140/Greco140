@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Greco140
+- 👀 I'm interested in topics such as Cybersecurity and Software Development, and I am also passionate about any new technology topic.
+- 🌱 I’m currently learning Software Engineering in the University and currently learning Cybersecurity for my own in websites like Hack4u and Cisco skills for all.
+- 💞️ I'm looking to collaborate on projects to gain experience in different programming languages such as Bash, Python and C++.
+- 📫 You can contact me on LinkedIn :) [Greco Gachuz on LinkedIn](https://www.linkedin.com/in/greco-gachuz/)
